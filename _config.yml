@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Nizhuan Wang / NeuroPI"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nizhuan WANG"
 description              : &description "personal description"
 url                      : https://nzwang.github.io/neuropi.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ author:
   location         : "Hong Kong SAR, China"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wangnizhuan1120@gmail.com" 
 
   # Academic websites
   PolyU            : "https://research.polyu.edu.hk/en/persons/nizhuan-wang"
@@ -38,7 +38,7 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-9701-2918"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Nizhuan+WANG"
   researchgate     : "https://www.researchgate.net/profile/Nizhuan-Wang"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=44361489400"
 
