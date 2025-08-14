@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage link of NeuroPI"
+title: "Homepage Link of NeuroPI"
 author_profile: true
 redirect_from: 
   - /about/
