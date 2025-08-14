@@ -26,22 +26,21 @@ author:
   name             : "WANG Nizhuan"
   pronouns         : # example: "He/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hong Kong SAR, China"
+  employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : # URL
+  PolyU            : "https://research.polyu.edu.hk/en/persons/nizhuan-wang"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=ABakcB4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-9701-2918"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Nizhuan-Wang"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=44361489400"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
