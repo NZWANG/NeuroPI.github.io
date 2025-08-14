@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "STARFormer: A Novel Spatio-Temporal Aggregation Reorganization Transformer of FMRI for Brain Disorder Diagnosis"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
